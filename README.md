@@ -34,6 +34,8 @@ To learn more about the technology, read our [introduction](doc/intro.md).
 
 To build and try out Grin, see the [build docs](doc/build.md).
 
+To build and try out Grin, see the [build docs](doc/build.md).
+
 ## Philosophy
 
 Grin likes itself small and easy on the eyes. It wants to be inclusive and welcoming for all walks of life, without judgement. Grin is terribly ambitious, but not at the detriment of others, rather to further us all. It may have strong opinions to stay in line with its objectives, which doesn't mean disrespect of others' ideas.
